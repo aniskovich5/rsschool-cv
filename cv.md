@@ -4,7 +4,7 @@
 * Telephone: +375447856972
 * Telegram: t.me/aniskovich5
 ## About myself
-JavaScript/Front-end developer
+My goal is to become а JavaScript/Front-end developer
 ## Skills
 * HTML, CSS
 * JavaScript
